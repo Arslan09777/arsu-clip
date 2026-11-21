@@ -1,0 +1,13 @@
+.venv/
+.tools/
+.uv-cache/
+.pytest_cache/
+data/
+.env
+.env-*
+__pycache__/
+*.pyc
+error/
+.DS_Store
+Thumbs.db
+.claude/
